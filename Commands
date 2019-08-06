@@ -1,0 +1,1 @@
+sudo inxi -b  ## used to display pc configuration 
